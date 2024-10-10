@@ -1,4 +1,4 @@
-**MDETR**: Modulated Detection for End-to-End Multi-Modal Understanding
+A Lightweight Modular Framework for Low-Cost Open-Vocabulary Object Detection Training
 ========
 
 Object detection is a core task in computer vision, crucial for applications like robotics, image analysis, and autonomous vehicles. While existing methods like MDETR (Multimodal Detr) have pushed the boundaries of open-vocabulary object detection by combining vision and language pre-training, they often suffer from high computational costs due to large models and extensive training requirements.
